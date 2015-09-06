@@ -12,5 +12,6 @@ For each scenario I verifed some properties of correctenss as invariants or as L
 
 ### Usage: 
 to experiment with the project you need to install [Spin](http://spinroot.com/spin/whatispin.html) model checker. <br\>
-I recommand also to install the tool ispin, open the files modeling the propterties and run the checker. <br/>
+I recommend to install the tool ispin, which provide a simple GUI to spin. <br/>
+Open the files modeling the propterties and run the checker. These files have the suffixes P1/P2 etc. in the project <br/>
 For more instrunctions, mailto hind.chf@gmail.com :-)
